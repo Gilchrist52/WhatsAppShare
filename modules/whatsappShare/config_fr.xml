@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>whatsappShare</name>
+    <displayName><![CDATA[whatsappShare]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[partage via whatsapp]]></description>
+    <author><![CDATA[Eunice AFFO]]></author>
+    <tab><![CDATA[social_networks]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
